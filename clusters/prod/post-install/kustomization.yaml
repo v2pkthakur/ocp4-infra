@@ -1,0 +1,3 @@
+resources:
+  - node-labels.yaml
+  - ingress-nodeselector.yaml
